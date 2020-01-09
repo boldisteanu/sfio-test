@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "How SF conversations help leaders – a conversation with Elfie Czerny & Dominik Godat"
-authors: [john-brooker]
+authors: [john-brooker, elfie-czerny, dominik-godat]
 date: 2020-01-09T14:57:09+02:00
 doi: ""
 
