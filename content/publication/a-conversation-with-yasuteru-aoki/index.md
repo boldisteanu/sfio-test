@@ -68,4 +68,6 @@ projects: []
 slides: ""
 ---
 
+[Listen on SoundCloud](https://soundcloud.com/michaelsu/solution-focused-therapy?in=user-700357235-44045331/sets/solution-focus)
+
 Related: [Commentary on "A Conversation With Yasuteru Aoki"](/publication/commentary-on-a-conversation-with-yasuteru-aoki)

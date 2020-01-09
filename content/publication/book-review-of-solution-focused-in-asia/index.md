@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Book Review of Solution Focused in Asia"
+title: "Book Review of \"Solution Focused in Asia\""
 authors: [lilian-ing]
 date: 2020-01-09T14:57:09+02:00
 doi: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "/pdf/Lilian Ing - Book Review of Solution Focused Practice in Asia.pdf"
 url_code:
 url_dataset:
 url_poster:
