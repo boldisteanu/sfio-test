@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [questions, scale, coaching, listening, leadership]
 categories: []
 featured: false
 

@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [Japan, companies, conversation, organisations, philosophy]
 categories: []
 featured: false
 

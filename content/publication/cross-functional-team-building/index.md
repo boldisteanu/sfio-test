@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [team building, leader, project, process, workshop, change]
 categories: []
 featured: false
 

@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [leadership, SF on tour, leaders, conversations, training]
 categories: []
 featured: false
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "/pdf/How SF Conversations help leaders.pdf"
 url_code:
 url_dataset:
 url_poster:

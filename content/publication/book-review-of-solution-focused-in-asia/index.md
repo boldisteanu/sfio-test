@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [Asia, practice, articles, conflict, leader, conversation, team, stories, workshop]
 categories: []
 featured: false
 

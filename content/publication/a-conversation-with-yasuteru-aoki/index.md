@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A Conversation With Yasuteru Aoki"
-authors: []
+authors: [john-brooker]
 date: 2020-01-09T14:57:10+02:00
 doi: ""
 
@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [Japan, companies, conversation, organisations, philosophy]
 categories: []
 featured: false
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:

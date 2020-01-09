@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [questions, tools, team, leader, process, steps, effectiveness, appreciation]
 categories: []
 featured: false
 
