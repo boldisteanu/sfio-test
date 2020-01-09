@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Commentary on a Conversation With Yasuteru Aoki"
-authors: []
+title: "Commentary on \"A Conversation With Yasuteru Aoki\""
+authors: [john-brooker]
 date: 2020-01-09T14:57:10+02:00
 doi: ""
 
@@ -67,3 +67,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+Related: [A Conversation With Yasuteru Aoki](/publication/a-conversation-with-yasuteru-aoki)

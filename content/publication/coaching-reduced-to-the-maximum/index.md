@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Coaching Reduced to the Maximum"
-authors: []
+authors: [peter-szabo]
 date: 2020-01-09T14:57:10+02:00
 doi: ""
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "/pdf/Peter Szabo - Coaching Reduced to the maximum.pdf"
 url_code:
 url_dataset:
 url_poster:
@@ -67,3 +67,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+Related: [Review: Coaching Reduced to the Maximum](/publication/review-coaching-reduced-to-the-maximum)

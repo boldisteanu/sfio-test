@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Review Coaching Reduced to the Maximum"
-authors: []
+title: "Review: Coaching Reduced to the Maximum"
+authors: [katalin-hankovszky]
 date: 2020-01-09T14:57:11+02:00
 doi: ""
 
@@ -67,3 +67,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+Related: [Coaching Reduced to the Maximum](/publication/coaching-reduced-to-the-maximum)

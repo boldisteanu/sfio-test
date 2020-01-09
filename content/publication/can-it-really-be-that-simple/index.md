@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Can It Really Be That Simple"
-authors: []
+authors: [evan-george]
 date: 2020-01-09T14:57:10+02:00
 doi: ""
 

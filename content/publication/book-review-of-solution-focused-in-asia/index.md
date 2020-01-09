@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Book Review of Solution Focused in Asia"
-authors: []
+authors: [lilian-ing]
 date: 2020-01-09T14:57:09+02:00
 doi: ""
 

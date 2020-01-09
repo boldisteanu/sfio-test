@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Cross Functional Team Building"
-authors: []
+authors: [fiona-turner]
 date: 2020-01-09T14:57:09+02:00
 doi: ""
 
