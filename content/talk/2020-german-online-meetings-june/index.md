@@ -1,6 +1,6 @@
 ---
 title: 2020 German Online Chapter Meeting / June
-event: 2020 German Online Chapter Meetings / June
+event: 2020 German Online Chapter Meeting / June
 # event_url: https://example.org
 
 location: Zoom
