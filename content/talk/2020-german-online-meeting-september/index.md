@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-02-17T00:00:00Z"
 
-authors: []
+authors: [peter-rohrig]
 tags: []
 
 # Is this a featured talk? (true/false)
