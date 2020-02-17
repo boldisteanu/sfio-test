@@ -11,14 +11,14 @@ location: Zoom
 #  postcode: '94305'
 #  country: United Kingdom
 
-summary: "Gebrauchsanweisung fÃ¼r die Zukunft" als Coaching-Tool in komplexen Projekten nutzen
+summary: "Gebrauchsanweisung f&uuml;r die Zukunft" als Coaching-Tool in komplexen Projekten nutzen
 #abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-09-21T19:00:00Z"
 date_end: "2020-09-21T20:30:00Z"
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-02-17T00:00:00Z"
