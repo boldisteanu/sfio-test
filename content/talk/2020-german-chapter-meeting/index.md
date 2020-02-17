@@ -6,7 +6,7 @@ title: 2020 German Chapter Meeting
 location: TBD
 address:
 #  street: 450 Serra Mall
-  city: Cologne 
+  city: Cologne
 #  region: 
 #  postcode: '94305'
   country: Germany
@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-02-17T00:00:00Z"
 
-authors: []
+authors: [stephanie-hammer]
 tags: []
 
 # Is this a featured talk? (true/false)
