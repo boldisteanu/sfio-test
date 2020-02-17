@@ -4,7 +4,7 @@ event: 2020 German Online Chapter Meetings 1
 # event_url: https://example.org
 
 location: Zoom
-address:  zoom link
+# address:  zoom link
 #  street: 450 Serra Mall
 #  city: Dorking 
 #  region: Surrey
@@ -17,8 +17,8 @@ address:  zoom link
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-06-10T19:00:00Z"
-date_end: "2020-06-10T19:00:00Z""
-all_day: true
+date_end: "2020-06-10T19:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-02-17T00:00:00Z"
