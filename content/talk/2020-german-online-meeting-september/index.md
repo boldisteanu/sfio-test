@@ -4,14 +4,14 @@ event: 2020 German Online Chapter Meeting / September
 # event_url: https://example.org
 
 location: Zoom
-# address:  zoom link
+#   address: zoom link
 #  street: 450 Serra Mall
 #  city: Dorking 
 #  region: Surrey
 #  postcode: '94305'
 #  country: United Kingdom
 
-summary: "Gebrauchsanweisung für die Zukunft" als Coaching-Tool in komplexen Projekten nutzen
+summary: \"Gebrauchsanweisung für die Zukunft\" als Coaching-Tool in komplexen Projekten nutzen
 #abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
@@ -56,7 +56,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- internal-project
+- german-chapter
 
 # Enable math on this page?
 math: true
