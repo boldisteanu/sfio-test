@@ -1,6 +1,6 @@
 ---
-title: 2020 Chapter Meeting in Köln, Germany
-event: 2020 Chapter Meeting in Köln, Germany
+title: 2020 German Chapter Meeting
+# event: 2020 Chapter Meeting in Köln, Germany
 # event_url: https://example.org
 
 location: TBD
