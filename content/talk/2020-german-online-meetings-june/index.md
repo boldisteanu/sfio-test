@@ -63,4 +63,4 @@ math: true
 ---
 mit Dr. Judith Mangelsdorf vom Dachverband Positiver Psychologie
 
-Arbeitsfeld Positive Coaching mit Ãœbungen und Diskussion 
+Arbeitsfeld Positive Coaching mit Übungen und Diskussion 
