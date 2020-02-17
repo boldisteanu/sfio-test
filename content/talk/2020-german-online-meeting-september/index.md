@@ -61,7 +61,7 @@ projects:
 # Enable math on this page?
 math: true
 ---
-mit Dr. Peter RÃ¶hrig ConsultContor
+mit Dr. Peter Röhrig ConsultContor
 
-Wie kann ich die "Gebrauchsanweisung fÃ¼r die Zukunft" als Coaching-Tool in komplexen Projekten nutzen?
+Wie kann ich die "Gebrauchsanweisung für die Zukunft" als Coaching-Tool in komplexen Projekten nutzen?
 - mit Demonstration
