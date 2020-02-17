@@ -18,7 +18,7 @@ summary: Online meeting mit Dr. Judith Mangelsdorf vom Dachverband Positiver Psy
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-06-10T19:00:00Z"
 date_end: "2020-06-10T20:30:00Z"
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-02-17T00:00:00Z"
