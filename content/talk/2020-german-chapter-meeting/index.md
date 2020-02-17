@@ -61,4 +61,4 @@ projects:
 # Enable math on this page?
 math: true
 ---
-[Stephanie Hammer](authors/stephanie-hammer) wird einen Workshop zum Thema Design Thinking und Solution Focus anbieten
+[Stephanie Hammer](/authors/stephanie-hammer) wird einen Workshop zum Thema Design Thinking und Solution Focus anbieten
