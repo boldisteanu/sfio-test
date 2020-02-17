@@ -1,6 +1,6 @@
 ---
-title: 2020 German Online Chapter Meeting 1
-event: 2020 German Online Chapter Meeting 1
+title: 2020 German Online Chapter Meeting 2
+event: 2020 German Online Chapter Meeting 2
 # event_url: https://example.org
 
 location: Zoom
@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: National Trust / Rob Adam'
+  caption: ''
   focal_point: Right
 
 links:
