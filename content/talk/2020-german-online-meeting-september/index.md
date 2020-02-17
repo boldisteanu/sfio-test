@@ -11,7 +11,7 @@ location: Zoom
 #  postcode: '94305'
 #  country: United Kingdom
 
-summary: "Gebrauchsanweisung f&uuml;r die Zukunft" als Coaching-Tool in komplexen Projekten nutzen
+summary: "Gebrauchsanweisung für die Zukunft" als Coaching-Tool in komplexen Projekten nutzen
 #abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
