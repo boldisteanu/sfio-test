@@ -4,7 +4,7 @@ event: 2020 German Online Chapter Meetings 21 September
 # event_url: https://example.org
 
 location: Zoom
-address:  zoom link
+# address:  zoom link
 #  street: 450 Serra Mall
 #  city: Dorking 
 #  region: Surrey
