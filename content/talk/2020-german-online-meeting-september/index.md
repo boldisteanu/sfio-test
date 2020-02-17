@@ -1,6 +1,6 @@
 ---
-title: 2020 German Online Chapter Meeting, 21 September
-event: 2020 German Online Chapter Meetings 21 September
+title: 2020 German Online Chapter Meeting / September
+event: 2020 German Online Chapter Meetings / September
 # event_url: https://example.org
 
 location: Zoom
@@ -11,7 +11,7 @@ location: Zoom
 #  postcode: '94305'
 #  country: United Kingdom
 
-#summary: An example talk using Academic's Markdown slides feature.
+summary: "Gebrauchsanweisung fÃ¼r die Zukunft" als Coaching-Tool in komplexen Projekten nutzen
 #abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
@@ -61,7 +61,7 @@ projects:
 # Enable math on this page?
 math: true
 ---
-mit Dr. Peter Röhrig ConsultContor
+mit Dr. Peter RÃ¶hrig ConsultContor
 
-Wie kann ich die "Gebrauchsanweisung für die Zukunft" als Coaching-Tool in komplexen Projekten nutzen?
+Wie kann ich die "Gebrauchsanweisung fÃ¼r die Zukunft" als Coaching-Tool in komplexen Projekten nutzen?
 - mit Demonstration
