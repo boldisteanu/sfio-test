@@ -1,10 +1,10 @@
 ---
-title: 2020 German Online Chapter Meeting 2
-event: 2020 German Online Chapter Meeting 2
+title: 2020 German Online Chapter Meeting, 21 September
+event: 2020 German Online Chapter Meetings 21 September
 # event_url: https://example.org
 
 location: Zoom
-# address:  zoom link
+address:  zoom link
 #  street: 450 Serra Mall
 #  city: Dorking 
 #  region: Surrey
@@ -16,9 +16,9 @@ location: Zoom
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-06-10T19:00:00Z"
-date_end: "2020-06-10T20:30:00Z"
-all_day: false
+date: "2020-09-21T19:00:00Z"
+date_end: "2020-09-21T20:30:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-02-17T00:00:00Z"
@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 image:
-  caption: ''
+  caption: 'Image credit: National Trust / Rob Adam'
   focal_point: Right
 
 links:
@@ -61,6 +61,7 @@ projects:
 # Enable math on this page?
 math: true
 ---
-mit Dr. Judith Mangelsdorf vom Dachverband Positiver Psychologie
+mit Dr. Peter Röhrig ConsultContor
 
-Arbeitsfeld Positive Coaching mit Übungen und Diskussion 
+Wie kann ich die "Gebrauchsanweisung für die Zukunft" als Coaching-Tool in komplexen Projekten nutzen?
+- mit Demonstration

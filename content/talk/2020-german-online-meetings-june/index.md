@@ -1,6 +1,6 @@
 ---
-title: 2020 German Online Chapter Meeting 1
-event: 2020 German Online Chapter Meeting 1
+title: 2020 German Online Chapter Meeting / June
+event: 2020 German Online Chapter Meetings / June
 # event_url: https://example.org
 
 location: Zoom
@@ -11,14 +11,14 @@ location: Zoom
 #  postcode: '94305'
 #  country: United Kingdom
 
-#summary: An example talk using Academic's Markdown slides feature.
+summary: Online meeting mit Dr. Judith Mangelsdorf vom Dachverband Positiver Psychologie
 #abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-06-10T19:00:00Z"
 date_end: "2020-06-10T20:30:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-02-17T00:00:00Z"
@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 image:
-  caption: ''
+  caption: 'Image credit: National Trust / Rob Adam'
   focal_point: Right
 
 links:
@@ -63,4 +63,4 @@ math: true
 ---
 mit Dr. Judith Mangelsdorf vom Dachverband Positiver Psychologie
 
-Arbeitsfeld Positive Coaching mit Übungen und Diskussion 
+Arbeitsfeld Positive Coaching mit Ãœbungen und Diskussion 
