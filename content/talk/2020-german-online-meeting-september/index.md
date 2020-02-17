@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: National Trust / Rob Adam'
+  caption: ''
   focal_point: Right
 
 links:
